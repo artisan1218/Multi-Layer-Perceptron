@@ -1,4 +1,4 @@
-# Multiple-Layer-Perceptron
+# Multi-Layer-Perceptron
 Python implementation of a simple MLP without using external packages
 
 ### Training data and labels
